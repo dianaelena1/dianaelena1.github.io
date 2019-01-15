@@ -1,0 +1,13 @@
+title: diana's blog
+email: diana.elenaa1@gmail.com
+description: dianaelena1.ro
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-dinky
+
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  dianaelena1
+repository_url: https://github.com/dianaelena1/dianaelena1.github.io.git
+show_excerpts: true
